@@ -36,7 +36,6 @@ How consistent was the AI grading across models compared to human grader?
    ```
    python3 main.py --company openai --model gpt-4o --temperature 0.5
    ```
+   Make sure the company and model are aligned. 
 
 4. The sort.ipynb file include method to analyze the output.
-
-Make sure the company and model are aligned. 
