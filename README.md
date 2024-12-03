@@ -21,9 +21,9 @@ How consistent was the AI grading across models compared to human grader?
 
 2. Run The follwing commands
    ```
-   cd lovesims-nextjs
-   npm install
-   npm run dev
+   python -m venv env
+   source env/bin/activate
+   pip install -r requirements.txt
    ```
    
 3. To grade the essay, run:
